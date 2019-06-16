@@ -1,0 +1,121 @@
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue',
+    Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+/* Home */
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+  border: 1px solid #eee;
+  overflow: hidden;
+  border-radius: 5px;
+}
+.card:hover {
+  box-shadow: 1px 1px 5px #999;
+}
+
+.card-img {
+  display: block;
+  height: 100%;
+  width:200px;
+}
+
+.card-tag {
+  margin-right: 0.5em;
+  color: white;
+  background: mediumaquamarine;
+  padding: 0.3em 0.5em;
+  border-radius: 50px;
+}
+
+/* Post */
+.placeholder {
+  height: 366px;
+  background-color: #eee;
+}
+
+article {
+  margin: 0 auto;
+  max-width: 650px;
+}
+
+/* About */
+.about-header {
+  text-align: center;
+}
+.about-avatar {
+  height: 150px;
+  width: auto;
+  border-radius: 10px;
+  border: 5px solid salmon;
+}
+.about-author {
+  margin-bottom: 72px;
+}
+
+/*footer*/
+.footer {
+  width: 100%;
+  padding: 40px;
+}
+
+.footer-logo {
+  width: 30px;
+  height: 30px;
+  margin: 0px 4px -6px 3px;
+}
+
+a {
+  text-decoration: none;
+  color: #108db8;
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Header */
+header {
+  padding: 24px 32px;
+  margin-bottom: 32px;
+  text-align: center;
+}
+.header-h1 {
+  padding-bottom: 2px;
+  font-weight: 100;
+}
+.header-nav {
+  max-width: 650px;
+  margin: 0 auto;
+}
+.header-link {
+  font-size: 18px;
+  margin-right: 16px;
+}
+
+.active {
+  font-size: 18px;
+  margin-right: 16px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.content {
+  padding: 1rem;
+}
