@@ -16,10 +16,6 @@ const isActive = ({ isCurrent }) => {
 function App() {
   return (
     <Root>
-      {/* <nav>
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-      </nav> */}
       <header className="header">
         <h1 className="header-h1">React-Static & Cosmic JS blog</h1>
         <nav className="header-nav">
