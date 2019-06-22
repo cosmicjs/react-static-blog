@@ -23,3 +23,8 @@ npm install or yarn install
 npm run start
 ```
 Open http://localhost:3000.
+
+### Production
+``` bash
+npm run build
+```
