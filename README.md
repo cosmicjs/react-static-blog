@@ -1,5 +1,7 @@
 # React-Static + Cosmic JS
 
+![react-static-cosmicjs-blog](public/thumbnail.PNG "The index page of the starter blog")
+
 > This repo contains an example blog website that is built with [React-Static](https://react-static.js.org), and [Cosmic JS](https://www.cosmicjs.com).
 
 >[See live demo hosted on Netlify](https://react-static-cosmicjs-blog.netlify.com/)
