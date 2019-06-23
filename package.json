@@ -1,6 +1,7 @@
 {
-  "name": "react-static-example-basic",
+  "name": "react-static-cosmicjs-blog",
   "private": true,
+  "version": "1.0.0",
   "scripts": {
     "start": "react-static start",
     "stage": "react-static build --staging",
