@@ -4,7 +4,7 @@
 
 > This repo contains an example blog website that is built with [React-Static](https://react-static.js.org), and [Cosmic JS](https://www.cosmicjs.com).
 
->[See live demo hosted on Netlify](https://react-static-cosmicjs-blog.netlify.com/)
+### [View Demo](https://cosmicjs.com/apps/react-static-blog)
 
 ## Prerequisites
 
